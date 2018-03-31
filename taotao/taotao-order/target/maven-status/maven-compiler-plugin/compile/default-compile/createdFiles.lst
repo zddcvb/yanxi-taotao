@@ -1,0 +1,7 @@
+com\jollyclass\taotao\order\dao\impl\JedisClusterImpl.class
+com\jollyclass\taotao\order\service\impl\OrderServiceImpl.class
+com\jollyclass\taotao\order\dao\impl\JedisClientImpl.class
+com\jollyclass\taotao\order\service\OrderService.class
+com\jollyclass\taotao\order\pojo\Order.class
+com\jollyclass\taotao\order\controller\OrderController.class
+com\jollyclass\taotao\order\dao\JedisClient.class

@@ -1,0 +1,19 @@
+package com.jollyclass.taotao.order.service.impl;
+
+import com.jollyclass.taotao.common.utils.TaoTaoResult;
+import com.jollyclass.taotao.order.service.OrderService;
+
+/**
+ * @author 邹丹丹
+ * @date 2017年8月1日 下午5:48:15
+ * 
+ */
+public class OrderServiceImpl implements OrderService{
+
+	@Override
+	public TaoTaoResult addCart(long itemId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

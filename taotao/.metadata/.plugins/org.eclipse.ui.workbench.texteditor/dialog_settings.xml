@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="273" key="DIALOG_WIDTH"/>
+		<item value="169" key="DIALOG_Y_ORIGIN"/>
+		<item value="942" key="DIALOG_X_ORIGIN"/>
+		<item value="400" key="DIALOG_HEIGHT"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="status" key="selection"/>
+		<list key="findhistory">
+			<item value="status"/>
+			<item value="orderForm"/>
+			<item value="提交订单"/>
+			<item value="返回"/>
+			<item value="去结算"/>
+			<item value="/head"/>
+			<item value="cart.js"/>
+			<item value="increment"/>
+		</list>
+		<list key="replacehistory">
+			<item value="TaoTaoResult"/>
+		</list>
+	</section>
+</section>

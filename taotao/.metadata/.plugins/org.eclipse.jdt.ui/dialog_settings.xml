@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="filter_imports;" key="filters_last_used"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateSimilarElements"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+		<item value="false" key="updateTextualMatches"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="DialogBounds_OverrideMethodDialog">
+		<item value="582" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="518" key="DIALOG_HEIGHT"/>
+		<item value="183" key="DIALOG_Y_ORIGIN"/>
+		<item value="677" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="440" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="500" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item value="587" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="766" key="DIALOG_HEIGHT"/>
+		<item value="18" key="DIALOG_Y_ORIGIN"/>
+		<item value="675" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="DialogBounds_GenerateToStringDialog">
+		<item value="516" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="758" key="DIALOG_HEIGHT"/>
+		<item value="23" key="DIALOG_Y_ORIGIN"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item value="true" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="500" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH"/>
+		<item value="440" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT"/>
+		<item value="false" key="GoIntoTopLevelTypeAction.isChecked"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="600" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="javadoc">
+		<item value="private" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="D:\java\jdk_1.7\bin\javadoc.exe;C:\Users\Administrator\Desktop\新建文件夹 (2)\javadoc.exe" key="javadoc_command_history"/>
+		<item value="1.7" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="C:\Users\Administrator\Desktop\新建文件夹" key="destdir"/>
+		<item value="-encoding utf-8 -charset utf-8" key="additionalparam"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="taotao-portal">
+				<item value="G:\taotao\taotao-portal\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-portal\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="generatorSqlmapCustom">
+				<item value="G:\taotao\generatorSqlmapCustom\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\generatorSqlmapCustom\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-sso">
+				<item value="G:\taotao\taotao-sso\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-sso\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-parent">
+				<item value="G:\taotao\taotao-parent\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-parent\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-manager-service">
+				<item value="G:\taotao\taotao-manager\taotao-manager-service\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-manager\taotao-manager-service\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-manager">
+				<item value="G:\taotao\taotao-manager\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-manager\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="Servers">
+				<item value="G:\taotao\Servers\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\Servers\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="RemoteSystemsTempFiles">
+				<item value="G:\taotao\RemoteSystemsTempFiles\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\RemoteSystemsTempFiles\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-manager-pojo">
+				<item value="G:\taotao\taotao-manager\taotao-manager-pojo\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-manager\taotao-manager-pojo\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-search">
+				<item value="G:\taotao\taotao-search\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-search\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-manager-web">
+				<item value="G:\taotao\taotao-manager\taotao-manager-web\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-manager\taotao-manager-web\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-rest">
+				<item value="G:\taotao\taotao-rest\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-rest\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-common">
+				<item value="G:\taotao\taotao-common\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-common\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="taotao-manager-mapper">
+				<item value="G:\taotao\taotao-manager\taotao-manager-mapper\javadoc.xml" key="antpath"/>
+				<item value="G:\taotao\taotao-manager\taotao-manager-mapper\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item value="true" key="IgnoreDefault"/>
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="0" key="StringStyle"/>
+		<item value="0" key="ToStringTemplateSelected"/>
+		<item value="false" key="LimitElements"/>
+		<item value="false" key="SkipNull"/>
+		<item value="10" key="LimitValue"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item value="true" key="showtypes"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item value="1" key="HISTORY_SIZE"/>
+		<item value="false" key="CASE_SENSITIVE"/>
+		<item value="11" key="INCLUDE_MASK"/>
+		<section name="HISTORY0">
+			<item value="false" key="isCaseSensitive"/>
+			<item value="" key="javaElement"/>
+			<item value="11" key="includeMask"/>
+			<item value="0" key="scope"/>
+			<item value="我的订单" key="pattern"/>
+			<item value="2" key="limitTo"/>
+			<item value="0" key="matchLocations"/>
+			<item value="0" key="searchFor"/>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="608" key="DIALOG_HEIGHT"/>
+		<item value="123" key="DIALOG_Y_ORIGIN"/>
+		<item value="660" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item value="322" key="size.y"/>
+		<item value="769" key="size.x"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item value="false" key="RemoveFinal"/>
+		<item value="false" key="SortOrdering"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

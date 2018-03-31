@@ -1,0 +1,8 @@
+com\jollyclass\taotao\common\utils\ExceptionUtils.class
+com\jollyclass\taotao\common\utils\IdUtils.class
+com\jollyclass\taotao\pojo\EUDataGridResult.class
+com\jollyclass\taotao\common\utils\FtpUtils.class
+com\jollyclass\taotao\common\utils\JsonUtils.class
+com\jollyclass\taotao\common\utils\CookieUtils.class
+com\jollyclass\taotao\common\utils\TaoTaoResult.class
+com\jollyclass\taotao\common\utils\HttpClientUtils.class

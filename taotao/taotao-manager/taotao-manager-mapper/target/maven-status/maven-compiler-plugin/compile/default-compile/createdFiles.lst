@@ -1,0 +1,11 @@
+com\jollyclass\taotao\mapper\TbUserMapper.class
+com\jollyclass\taotao\mapper\TbContentCategoryMapper.class
+com\jollyclass\taotao\mapper\TbOrderMapper.class
+com\jollyclass\taotao\mapper\TbItemParamItemMapper.class
+com\jollyclass\taotao\mapper\TbItemCatMapper.class
+com\jollyclass\taotao\mapper\TbItemParamMapper.class
+com\jollyclass\taotao\mapper\TbOrderItemMapper.class
+com\jollyclass\taotao\mapper\TbItemDescMapper.class
+com\jollyclass\taotao\mapper\TbContentMapper.class
+com\jollyclass\taotao\mapper\TbOrderShippingMapper.class
+com\jollyclass\taotao\mapper\TbItemMapper.class

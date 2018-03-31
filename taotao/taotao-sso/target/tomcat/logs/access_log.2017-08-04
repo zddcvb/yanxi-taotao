@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:33 +0800] "GET /user/showLogin HTTP/1.1" 200 4006 http-bio-8084-exec-1 891
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:33 +0800] "GET /css/login.css HTTP/1.1" 304 - http-bio-8084-exec-2 97
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:33 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 304 - http-bio-8084-exec-3 95
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:33 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 304 - http-bio-8084-exec-4 12
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:33 +0800] "GET /images/login-all-bg.png HTTP/1.1" 304 - http-bio-8084-exec-6 17
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:33 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 304 - http-bio-8084-exec-5 41
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:33 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8084-exec-8 2
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:41 +0800] "POST /user/login HTTP/1.1" 200 82 http-bio-8084-exec-10 454
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:43 +0800] "GET /user/token/393506a7-704a-4a7f-8f8d-3e0cd5b212b8?callback=jQuery5826101&_=1501833763193 HTTP/1.1" 200 220 http-bio-8084-exec-10 36
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:52 +0800] "GET /user/token/393506a7-704a-4a7f-8f8d-3e0cd5b212b8?callback=jQuery6921754&_=1501833772536 HTTP/1.1" 200 220 http-bio-8084-exec-2 3
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:02:55 +0800] "GET /user/token/393506a7-704a-4a7f-8f8d-3e0cd5b212b8?callback=jQuery4599411&_=1501833775691 HTTP/1.1" 200 220 http-bio-8084-exec-6 3
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:03:00 +0800] "GET /user/token/393506a7-704a-4a7f-8f8d-3e0cd5b212b8?callback=jQuery7457893&_=1501833780005 HTTP/1.1" 200 220 http-bio-8084-exec-8 2
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:03:07 +0800] "GET /user/token/393506a7-704a-4a7f-8f8d-3e0cd5b212b8?callback=jQuery335877&_=1501833787390 HTTP/1.1" 200 219 http-bio-8084-exec-9 3
+0:0:0:0:0:0:0:1 - - [04/Aug/2017:16:12:31 +0800] "GET /user/token/393506a7-704a-4a7f-8f8d-3e0cd5b212b8?callback=jQuery2887330&_=1501834351642 HTTP/1.1" 200 220 http-bio-8084-exec-3 5

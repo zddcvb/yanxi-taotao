@@ -1,0 +1,14 @@
+com\jollyclass\taotao\service\impl\ItemCatServiceImpl.class
+com\jollyclass\taotao\service\PictureService.class
+com\jollyclass\taotao\service\impl\PictureServiceImpl.class
+com\jollyclass\taotao\service\impl\ItemParamItemServiceImpl.class
+com\jollyclass\taotao\service\ItemService.class
+com\jollyclass\taotao\service\ItemParamItemService.class
+com\jollyclass\taotao\service\impl\ItemServiceImpl.class
+com\jollyclass\taotao\service\ItemParamService.class
+com\jollyclass\taotao\service\ItemCatService.class
+com\jollyclass\taotao\service\impl\ItemParamServiceImpl.class
+com\jollyclass\taotao\service\impl\ContentServiceImpl.class
+com\jollyclass\taotao\service\impl\ContentCategoryServiceImpl.class
+com\jollyclass\taotao\service\ContentService.class
+com\jollyclass\taotao\service\ContentCategoryService.class

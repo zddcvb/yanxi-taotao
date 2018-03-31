@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;taotao-order/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;taotao-rest&apos;&#x0D;&#x0A;- Destination element: &apos;taotao-order/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     taotao-rest/src/main/java/com.jollyclass.taotao.rest.dao.impl&#x0D;&#x0A;     taotao-rest/src/main/java/com.jollyclass.taotao.rest.dao" description="Copy packages" destination="=taotao-order/src\/main\/java" element1="/src\/main\/java&lt;com.jollyclass.taotao.rest.dao.impl" element2="/src\/main\/java&lt;com.jollyclass.taotao.rest.dao" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1501641442337" version="1.0"/>
+</session>

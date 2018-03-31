@@ -1,0 +1,6 @@
+com\jollyclass\taotao\sso\service\UserService.class
+com\jollyclass\taotao\sso\dao\JedisClient.class
+com\jollyclass\taotao\sso\dao\impl\JedisClusterImpl.class
+com\jollyclass\taotao\sso\controller\UserController.class
+com\jollyclass\taotao\sso\dao\impl\JedisClientImpl.class
+com\jollyclass\taotao\sso\service\impl\UserServiceImpl.class
