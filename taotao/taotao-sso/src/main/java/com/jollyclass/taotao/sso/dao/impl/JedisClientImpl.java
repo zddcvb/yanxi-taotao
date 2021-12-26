@@ -19,6 +19,7 @@ public class JedisClientImpl implements JedisClient{
 	private JedisPool jedisPool;
 	
 	public Jedis getJedis(){
+		System.out.println("getjedis");
 		return jedisPool.getResource();
 	}
 	@Override
