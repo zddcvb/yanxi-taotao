@@ -20,6 +20,7 @@ public class JedisClientImpl implements JedisClient{
 	
 	public Jedis getJedis(){
 		System.out.println("getjedis");
+		int i=1/0;
 		return jedisPool.getResource();
 	}
 	@Override
